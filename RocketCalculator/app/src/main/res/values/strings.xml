@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rocket Calculator</string>
+    <string-array name="lenUnits" >
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>in</item>
+        <item>ft</item>
+    </string-array>
+</resources>
